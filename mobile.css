@@ -1,0 +1,42 @@
+main{
+  display:none;
+}
+  
+
+#my-section {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 0.7em;
+}
+
+#my-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#my-list li {
+  margin: 0;
+  padding: 10px;
+  background-color: #eee;
+}
+
+#my-list li a {
+  display: block;
+  text-decoration: none;
+  color: #333;
+  border:2px solid black
+  
+}
+
+#my-list li a:hover {
+  background-color: #ddd;
+}
+
+#my-content {
+  margin-top: 20px;
+}
+.hidden {
+  display: none;
+}
